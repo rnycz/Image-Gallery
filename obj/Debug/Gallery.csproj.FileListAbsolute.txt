@@ -1,0 +1,17 @@
+D:\Programy Visual Studio\Gallery\bin\Debug\Gallery.exe.config
+D:\Programy Visual Studio\Gallery\bin\Debug\Gallery.exe
+D:\Programy Visual Studio\Gallery\bin\Debug\Gallery.pdb
+D:\Programy Visual Studio\Gallery\obj\Debug\ImageFullSize.g.cs
+D:\Programy Visual Studio\Gallery\obj\Debug\MainWindow.g.cs
+D:\Programy Visual Studio\Gallery\obj\Debug\App.g.cs
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery_MarkupCompile.cache
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery_MarkupCompile.lref
+D:\Programy Visual Studio\Gallery\obj\Debug\ImageFullSize.baml
+D:\Programy Visual Studio\Gallery\obj\Debug\MainWindow.baml
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.g.resources
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.Properties.Resources.resources
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.csproj.GenerateResource.cache
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.csproj.CoreCompileInputs.cache
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.exe
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.pdb
+D:\Programy Visual Studio\Gallery\obj\Debug\Gallery.csprojAssemblyReference.cache

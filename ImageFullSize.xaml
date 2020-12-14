@@ -1,0 +1,14 @@
+﻿<Window x:Class="Gallery.ImageFullSize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gallery"
+        mc:Ignorable="d"
+        Title="ImageFullSize" Height="1000" Width="1850">
+    <Grid>
+        <Image x:Name="imageFullSize" HorizontalAlignment="Left" Height="933" Margin="10,26,0,0" VerticalAlignment="Top" Width="1822"/>
+        <Label x:Name="pathLBL" Content="Image path:" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
